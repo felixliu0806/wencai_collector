@@ -1,6 +1,6 @@
 # Wencai Stock Data Collector
 
-一个用于从问财网抓取股票数据的Python爬虫工具。
+一个用于从同花顺问财获取数据的工具。
 
 ## 功能特点
 
